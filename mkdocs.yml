@@ -8,3 +8,8 @@ nav:
     - Connected to the Teamserver: getting_started/connecting.md
   - User Interface:
     - Overview: ui/overview.md
+
+theme:
+  name: readthedocs
+  color_mode: auto
+  user_color_mode_togglee: true
