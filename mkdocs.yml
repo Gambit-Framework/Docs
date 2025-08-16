@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: Gambit-Framework Docs
+
+nav:
+  - Home: index.md
+  - Getting Start:
+    - Installation: getting_started/install.md
+    - Starting the Teamserver: getting_started/server.md 
+    - Connected to the Teamserver: getting_started/connecting.md
+  - User Interface:
+    - Overview: ui/overview.md

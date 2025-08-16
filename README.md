@@ -1,2 +1,0 @@
-# Docs
-Gambit-Framework Docs
