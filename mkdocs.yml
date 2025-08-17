@@ -8,6 +8,17 @@ nav:
     - Connected to the Teamserver: getting_started/connecting.md
   - User Interface:
     - Overview: ui/overview.md
+  - Server Configuration:
+    - Overview: server/overview.md
+    - Server Profile: server/profile.md
+  - Listener Management:
+    - Overview: listener/overview.md
+  - Evasive Features:
+    - Overview: evasion/overview.md
+    - Evasion Profile: evasion/profile.md
+  - Pivoting:
+    - Overview: pivoting/overview.md
+  - Changelog: changelog.md
 
 theme:
   name: readthedocs
