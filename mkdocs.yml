@@ -11,6 +11,8 @@ nav:
   - Server Configuration:
     - Overview: server/overview.md
     - Server Profile: server/profile.md
+  - User Management:
+    - Overview: users/overview.md
   - Listener Management:
     - Overview: listener/overview.md
   - Evasive Features:
@@ -18,7 +20,8 @@ nav:
     - Evasion Profile: evasion/profile.md
   - Pivoting:
     - Overview: pivoting/overview.md
-  - Changelog: changelog.md
+  - Changelog:
+    - v0.1.0: changelog/v0.1.0.md
 
 theme:
   name: readthedocs
