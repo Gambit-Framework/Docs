@@ -2,8 +2,8 @@
 
 A Modern Adversary Emulation Framework for Red Team Operations.
 
-## Features
+## Features Overview
 
-## Contact
+## Training
 
-## Other Projects
+## Support

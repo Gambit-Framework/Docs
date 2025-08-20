@@ -5,7 +5,7 @@ nav:
   - Getting Start:
     - Installation: getting_started/install.md
     - Starting the Teamserver: getting_started/server.md 
-    - Connected to the Teamserver: getting_started/connecting.md
+    - Connecting to the Teamserver: getting_started/connecting.md
   - User Interface:
     - Overview: ui/overview.md
   - Server Configuration:
@@ -20,8 +20,9 @@ nav:
     - Evasion Profile: evasion/profile.md
   - Pivoting:
     - Overview: pivoting/overview.md
-  - Changelog:
-    - v0.1.0: changelog/v0.1.0.md
+  - Updates:
+    - roadmap: updates/roadmap.md
+    - v0.1.0: updates/v0.1.0.md
 
 theme:
   name: readthedocs
