@@ -15,11 +15,16 @@ nav:
     - Overview: users/overview.md
   - Listener Management:
     - Overview: listener/overview.md
+    - HTTP(s): listener/http.md
   - Evasive Features:
     - Overview: evasion/overview.md
     - Evasion Profile: evasion/profile.md
   - Pivoting:
     - Overview: pivoting/overview.md
+  - Supporting Tools:
+    - Overview: tools/overview.md
+    - g2lint: tools/g2lint.md
+    - g2sc: tools/g2sc.md
   - Updates:
     - Roadmap: updates/roadmap.md
     - v0.1.0: updates/v0.1.0.md
