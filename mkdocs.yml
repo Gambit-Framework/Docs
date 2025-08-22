@@ -21,7 +21,7 @@ nav:
   - Pivoting:
     - Overview: pivoting/overview.md
   - Updates:
-    - roadmap: updates/roadmap.md
+    - Roadmap: updates/roadmap.md
     - v0.1.0: updates/v0.1.0.md
 
 theme:

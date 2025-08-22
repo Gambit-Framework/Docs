@@ -16,6 +16,7 @@ GUI QOL updates
 - Session Graph
 - File Browser
 - Process Browser
+- Proxy Manager
 
 ## v0.4
 
@@ -24,13 +25,14 @@ Updates to the Teamserver
 - Server Profile Updates
   - Malleablility for Channels
 - Site Management
+- DNS over HTTP Support
 
 ## v0.5
 
 Updates to payload management
 
-- Staged Payload Support
-- Connect to [Cloak](https://github.com/HackLike-co/Cloak) for implant generation
+- Staged Payload Support (loader updates)
+- Connect to [Cloak](https://github.com/HackLike-co/Cloak) for loader generation
 
 ## v0.6
 
@@ -44,3 +46,4 @@ Better Operation/User Management
 
 - Multiple Operations Support
 - User Roles
+- ICMP Support
