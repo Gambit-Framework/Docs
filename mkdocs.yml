@@ -22,14 +22,15 @@ nav:
   - Pivoting:
     - Overview: pivoting/overview.md
   - Supporting Tools:
-    - Overview: tools/overview.md
+    - Catalog: tools/overview.md
     - g2lint: tools/g2lint.md
     - g2sc: tools/g2sc.md
+    - cs2g: tools/cs2g.md
+    - db2p: tools/db2p.md
   - Updates:
     - Roadmap: updates/roadmap.md
     - v0.1.0: updates/v0.1.0.md
 
 theme:
   name: readthedocs
-  color_mode: auto
-  user_color_mode_togglee: true
+  titles_only: True

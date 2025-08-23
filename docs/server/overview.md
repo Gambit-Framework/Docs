@@ -12,4 +12,4 @@ Gambit's server profile uses [KDL](https://kdl.dev/) as its configuration langua
 
 ### Checking for Errors
 
-Gambit comes with a program `g2lint` (shamelessly stole the name from cs) to check for errors in your server profile.
+Gambit comes with a program [g2lint](../tools/g2lint.md) to check for errors in your server profile.
