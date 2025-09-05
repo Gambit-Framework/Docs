@@ -47,3 +47,5 @@ Better Operation/User Management
 - Multiple Operations Support
 - User Roles
 - ICMP Support
+- Custom Logging
+- Generate Reports

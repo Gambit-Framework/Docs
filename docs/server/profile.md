@@ -39,3 +39,21 @@ operators {
     }
 }
 ```
+
+## `listeners` block
+
+The `listeners` block allows you to start and configure and listeners
+
+```kdl
+listeners {
+    http "listener-name" {
+        bind-host   "0.0.0.0"
+        bind-port   80
+
+        user-agent  "Mozilla/5.0 (Windows NT x.y; Win64; x64; rv:10.0) Gecko/20100101 Firefox/10.0"
+        headers     "Gambit-Version: 0.1,Authorization: sdjh39abfkl0s"
+        uris        "index.php,index.html,about/about.php"
+        method      "post"
+    }
+}
+```

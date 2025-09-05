@@ -6,4 +6,6 @@ A Modern Adversary Emulation Framework for Red Team Operations.
 
 ## Training
 
+Please visit our youtube [channel](https://youtube.com/@HackLike-co) for training videos.
+
 ## Support
